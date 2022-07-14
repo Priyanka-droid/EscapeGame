@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SampleScene 4
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 0c5dc1b8729f04c04a76d54c74f27fc8, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4f4a4d1f0f61a412bb61fda5e352e95f, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 1fdc0a607cdd8414d8f9b8e31f43d483, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 9100000, guid: c63fc7b6d13d3432a8a990cab3490c5e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 16c147a2be6f5434e95cd8087d17f4fc, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 9100000, guid: 1af929914ea3c407d9c4a8813007d2ac, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 7400000, guid: 88bf2c2d3610646de91cbc1c29e4fab7, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2193720292616902927, guid: 63b4efc97059248909484edb86e1520d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 9100000, guid: 9e30046fc73344283a70894523d1b823, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 7aeff53320d1d487b9bef2830b0a88fe, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: c6413f8e973964a73a9c7a9b35ff2c25, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7400000, guid: 9372e7edb6c7140b1a43181cc70ea2ea, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: d95955d62213f486ab0feb67fbd6050c, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 30e4a04e196a44f0bbc4bb1fa1711da4, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ed174e07a736d4bf5a094564bd7eb098, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7400000, guid: f667ad170b0fe4dfb8206441efd50c05, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 48b7b405af09945a7b67a1d862fad147, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: f172a3a41abc04be7bc7eef6781ae678, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8830475957141166920, guid: f90e7c6af2a8f4cebb8e1abbf7c672b1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ee148e281f3c41c5b4ff5f8a5afe5a6c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 4835336949617974001, guid: bbf6ab5a5c9e7422d923ec4d90166916, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 9100000, guid: 2a226098088cc4414a494eec646a24f2, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 7400000, guid: b2ce8b4dba79342fe9c44c6be50055ca, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 6639813552725340238, guid: cfc79d4256a0a466e909774bdc00b824, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 9c94c2f2968b04787864463d9736d3a0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 71b67b8c2686242cbbc7a8263b9afd15, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 7400000, guid: 676e03ebcc5734c2d8c0250810eb91a8, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
