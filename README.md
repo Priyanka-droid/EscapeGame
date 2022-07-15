@@ -16,7 +16,7 @@ Size: 115mb
 ## References:
 
 The official documentation of Unity (https://docs.unity3d.com/Manual/Unity2D.html)<br/>
-Stack overflow (https://stackoverflow.com/questions/46436893/unity-2d-movement-script-issue): Helped me in fixing almost all the errors<br/>
+[Stack overflow]((https://stackoverflow.com/questions/46436893/unity-2d-movement-script-issue): Helped me in fixing almost all the errors)
 FreeCodeCamp (https://www.freecodecamp.org/news/the-ultimate-beginners-guide-to-game-development-in-unity-f9bfe972c2b5/)<br/>
 
 
