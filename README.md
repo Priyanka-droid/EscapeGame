@@ -2,7 +2,7 @@
 
 
 ## Description<br/>
-EscapeGame is a 2D game, made in unity, scripts written in C#. It is build for Mac, Windows and Linux. 
+EscapeGame is a 2D game, made in unity, scripts written in C#. It is built for Mac, Windows and Linux. 
 The theme of the game is to avoid the enemies from touching. They keep coming from both directions. The player needs to jump (using space key) to protect himself and the game ends if he is unable to do so. The game can be restarted or quit at any time.
 
 ## Future Scopes: 
